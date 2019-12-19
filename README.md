@@ -1,2 +1,6 @@
-# author-info-social-networks-
-author info / social networks 
+> ***
+>#### Author: olivier huttmacher  
+> Likedin : [https://www.linkedin.com/in/olivier-huttmacher/](https://www.linkedin.com/>in/olivier-huttmacher/)  
+> Github : [https://github.com/olygood](https://github.com/olygood)  
+> CodePen : [https://codepen.io/dashboard/](https://codepen.io/dashboard/)  
+> *** 
