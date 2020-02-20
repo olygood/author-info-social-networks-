@@ -1,6 +1,6 @@
 > ***
 >#### Author: olivier huttmacher 
-< Mail : <olivier.huttmacher@gmail.com>
+> Mail : <olivier.huttmacher@gmail.com>  
 > Mail : [olivier.huttmacher@gmail.com](olivier.huttmacher@gmail.com)  
 > Likedin : [https://www.linkedin.com/in/olivier-huttmacher/](https://www.linkedin.com/>in/olivier-huttmacher)  
 > Github : [https://github.com/olygood/](https://github.com/olygood)  
